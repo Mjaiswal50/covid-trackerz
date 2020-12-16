@@ -2,4 +2,4 @@
 ajax php based corona live tracking record using api.
 
 demo:
-https://github.com/Mjaiswal50/covid-trackerz.git
+https://covid3333.000webhostapp.com/Covidapiz.php
